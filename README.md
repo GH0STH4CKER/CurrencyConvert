@@ -5,14 +5,14 @@
 
 Input From currency and To Currency and Value , 
 
-You get the Output
+You get the Output like following example :
 
-#Ecample Input:
+# Input:
 
-#Enter currency , Convert FROM : USD
-#Enter currency , Convert TO : LKR
-#Enter value to convert : 10
+# Enter currency , Convert FROM : USD
+# Enter currency , Convert TO : LKR
+# Enter value to convert : 10
 
-Output :
+# Output :
 
-#LKR : 1859.925588
+# LKR : 1859.925588
