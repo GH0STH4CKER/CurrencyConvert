@@ -9,10 +9,10 @@ You get the Output like following example :
 
 # Input:
 
-# Enter currency , Convert FROM : USD
-# Enter currency , Convert TO : LKR
-# Enter value to convert : 10
+<h2> Enter currency , Convert FROM : USD</h2>
+<h2> Enter currency , Convert TO : LKR</h2>
+<h2> Enter value to convert : 10</h2>
 
 # Output :
 
-# LKR : 1859.925588
+<h2>LKR : 1859.925588</h2>
